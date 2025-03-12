@@ -1,0 +1,14 @@
+C:\Users\win10\source\repos\Day13\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\win10\source\repos\Day13\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\win10\source\repos\Day13\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\win10\source\repos\Day13\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\win10\source\repos\Day13\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\win10\source\repos\Day13\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\source\repos\Day13\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\win10\source\repos\Day13\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\win10\source\repos\Day13\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\Day13\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\win10\source\repos\Day13\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\win10\source\repos\Day13\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\win10\source\repos\Day13\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\win10\source\repos\Day13\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll

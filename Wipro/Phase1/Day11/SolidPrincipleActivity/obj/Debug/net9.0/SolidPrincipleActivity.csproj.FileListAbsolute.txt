@@ -1,0 +1,14 @@
+C:\Users\win10\source\repos\Day11\SolidPrincipleActivity\bin\Debug\net9.0\SolidPrincipleActivity.exe
+C:\Users\win10\source\repos\Day11\SolidPrincipleActivity\bin\Debug\net9.0\SolidPrincipleActivity.deps.json
+C:\Users\win10\source\repos\Day11\SolidPrincipleActivity\bin\Debug\net9.0\SolidPrincipleActivity.runtimeconfig.json
+C:\Users\win10\source\repos\Day11\SolidPrincipleActivity\bin\Debug\net9.0\SolidPrincipleActivity.dll
+C:\Users\win10\source\repos\Day11\SolidPrincipleActivity\bin\Debug\net9.0\SolidPrincipleActivity.pdb
+C:\Users\win10\source\repos\Day11\SolidPrincipleActivity\obj\Debug\net9.0\SolidPrincipleActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\source\repos\Day11\SolidPrincipleActivity\obj\Debug\net9.0\SolidPrincipleActivity.AssemblyInfoInputs.cache
+C:\Users\win10\source\repos\Day11\SolidPrincipleActivity\obj\Debug\net9.0\SolidPrincipleActivity.AssemblyInfo.cs
+C:\Users\win10\source\repos\Day11\SolidPrincipleActivity\obj\Debug\net9.0\SolidPrincipleActivity.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\Day11\SolidPrincipleActivity\obj\Debug\net9.0\SolidPrincipleActivity.dll
+C:\Users\win10\source\repos\Day11\SolidPrincipleActivity\obj\Debug\net9.0\refint\SolidPrincipleActivity.dll
+C:\Users\win10\source\repos\Day11\SolidPrincipleActivity\obj\Debug\net9.0\SolidPrincipleActivity.pdb
+C:\Users\win10\source\repos\Day11\SolidPrincipleActivity\obj\Debug\net9.0\SolidPrincipleActivity.genruntimeconfig.cache
+C:\Users\win10\source\repos\Day11\SolidPrincipleActivity\obj\Debug\net9.0\ref\SolidPrincipleActivity.dll

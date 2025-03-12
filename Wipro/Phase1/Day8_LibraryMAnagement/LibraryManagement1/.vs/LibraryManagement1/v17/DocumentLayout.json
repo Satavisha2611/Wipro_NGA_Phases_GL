@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win10\\source\\repos\\Day8_LibraryMAnagement\\LibraryManagement1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F202EC2A-DEAF-472B-9EFE-DB9999607046}|..\\LibraryManagement_Main\\LibraryManagement_Main.csproj|c:\\users\\win10\\source\\repos\\day8_librarymanagement\\librarymanagement_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE666E1-D305-4B55-9344-0BC9AE8F66D5}|..\\LibraryTest\\LibraryTest.csproj|c:\\users\\win10\\source\\repos\\day8_librarymanagement\\librarytest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8714F25F-A96D-4B8A-9602-B58AF445CEA7}|LibraryManagement1.csproj|C:\\Users\\win10\\source\\repos\\Day8_LibraryMAnagement\\LibraryManagement1\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8714F25F-A96D-4B8A-9602-B58AF445CEA7}|LibraryManagement1.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8714F25F-A96D-4B8A-9602-B58AF445CEA7}|LibraryManagement1.csproj|C:\\Users\\win10\\source\\repos\\Day8_LibraryMAnagement\\LibraryManagement1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8714F25F-A96D-4B8A-9602-B58AF445CEA7}|LibraryManagement1.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8714F25F-A96D-4B8A-9602-B58AF445CEA7}|LibraryManagement1.csproj|C:\\Users\\win10\\source\\repos\\Day8_LibraryMAnagement\\LibraryManagement1\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8714F25F-A96D-4B8A-9602-B58AF445CEA7}|LibraryManagement1.csproj|solutionrelative:borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day8_LibraryMAnagement\\LibraryTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\LibraryTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day8_LibraryMAnagement\\LibraryTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\LibraryTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:56:13.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day8_LibraryMAnagement\\LibraryManagement_Main\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement_Main\\Program.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day8_LibraryMAnagement\\LibraryManagement_Main\\Program.cs",
+              "RelativeToolTip": "..\\LibraryManagement_Main\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwDMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T06:57:34.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day8_LibraryMAnagement\\LibraryManagement1\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day8_LibraryMAnagement\\LibraryManagement1\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:30:57.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day8_LibraryMAnagement\\LibraryManagement1\\Borrower.cs",
+              "RelativeDocumentMoniker": "Borrower.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day8_LibraryMAnagement\\LibraryManagement1\\Borrower.cs",
+              "RelativeToolTip": "Borrower.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:23:09.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day8_LibraryMAnagement\\LibraryManagement1\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day8_LibraryMAnagement\\LibraryManagement1\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:18:27.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

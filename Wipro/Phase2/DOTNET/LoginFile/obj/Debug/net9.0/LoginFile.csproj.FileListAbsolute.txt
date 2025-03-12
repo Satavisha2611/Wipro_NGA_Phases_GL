@@ -1,0 +1,14 @@
+C:\Users\win10\source\repos\Practice\LoginFile\obj\Debug\net9.0\LoginFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\source\repos\Practice\LoginFile\obj\Debug\net9.0\LoginFile.AssemblyInfoInputs.cache
+C:\Users\win10\source\repos\Practice\LoginFile\obj\Debug\net9.0\LoginFile.AssemblyInfo.cs
+C:\Users\win10\source\repos\Practice\LoginFile\obj\Debug\net9.0\LoginFile.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\Practice\LoginFile\bin\Debug\net9.0\LoginFile.exe
+C:\Users\win10\source\repos\Practice\LoginFile\bin\Debug\net9.0\LoginFile.deps.json
+C:\Users\win10\source\repos\Practice\LoginFile\bin\Debug\net9.0\LoginFile.runtimeconfig.json
+C:\Users\win10\source\repos\Practice\LoginFile\bin\Debug\net9.0\LoginFile.dll
+C:\Users\win10\source\repos\Practice\LoginFile\bin\Debug\net9.0\LoginFile.pdb
+C:\Users\win10\source\repos\Practice\LoginFile\obj\Debug\net9.0\LoginFile.dll
+C:\Users\win10\source\repos\Practice\LoginFile\obj\Debug\net9.0\refint\LoginFile.dll
+C:\Users\win10\source\repos\Practice\LoginFile\obj\Debug\net9.0\LoginFile.pdb
+C:\Users\win10\source\repos\Practice\LoginFile\obj\Debug\net9.0\LoginFile.genruntimeconfig.cache
+C:\Users\win10\source\repos\Practice\LoginFile\obj\Debug\net9.0\ref\LoginFile.dll

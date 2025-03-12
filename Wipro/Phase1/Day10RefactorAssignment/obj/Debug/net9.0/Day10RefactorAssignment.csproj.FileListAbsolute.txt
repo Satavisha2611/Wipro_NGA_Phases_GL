@@ -1,0 +1,14 @@
+C:\Users\win10\source\repos\Day10RefactorAssignment\bin\Debug\net9.0\Day10RefactorAssignment.exe
+C:\Users\win10\source\repos\Day10RefactorAssignment\bin\Debug\net9.0\Day10RefactorAssignment.deps.json
+C:\Users\win10\source\repos\Day10RefactorAssignment\bin\Debug\net9.0\Day10RefactorAssignment.runtimeconfig.json
+C:\Users\win10\source\repos\Day10RefactorAssignment\bin\Debug\net9.0\Day10RefactorAssignment.dll
+C:\Users\win10\source\repos\Day10RefactorAssignment\bin\Debug\net9.0\Day10RefactorAssignment.pdb
+C:\Users\win10\source\repos\Day10RefactorAssignment\obj\Debug\net9.0\Day10RefactorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\source\repos\Day10RefactorAssignment\obj\Debug\net9.0\Day10RefactorAssignment.AssemblyInfoInputs.cache
+C:\Users\win10\source\repos\Day10RefactorAssignment\obj\Debug\net9.0\Day10RefactorAssignment.AssemblyInfo.cs
+C:\Users\win10\source\repos\Day10RefactorAssignment\obj\Debug\net9.0\Day10RefactorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\Day10RefactorAssignment\obj\Debug\net9.0\Day10RefactorAssignment.dll
+C:\Users\win10\source\repos\Day10RefactorAssignment\obj\Debug\net9.0\refint\Day10RefactorAssignment.dll
+C:\Users\win10\source\repos\Day10RefactorAssignment\obj\Debug\net9.0\Day10RefactorAssignment.pdb
+C:\Users\win10\source\repos\Day10RefactorAssignment\obj\Debug\net9.0\Day10RefactorAssignment.genruntimeconfig.cache
+C:\Users\win10\source\repos\Day10RefactorAssignment\obj\Debug\net9.0\ref\Day10RefactorAssignment.dll

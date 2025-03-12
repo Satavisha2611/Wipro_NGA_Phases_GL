@@ -1,0 +1,54 @@
+﻿@page
+@model DemoRazor.Pages.EmployeeInfoModel
+@{
+}
+
+<h1 style="align-content: center; font-weight: bold">Employee Details:</h1><br />
+
+<form class="form">
+  <label for="employeeId">
+	  Employee ID:
+  </label><br />
+
+  <input type="number" id="employeeId" name="employeeId" placeholder="Enter your employee id"/><br />
+  <br />
+
+   <label for="employeeName">
+	  Employee Name:
+  </label><br />
+
+	<input type="text" id="employeeName" name="employeeName" placeholder="Enter your name" /><br />
+  <br />
+
+	<label for="employeeAge">
+		Employee Age:
+	</label><br />
+
+	<input type="number" id="employeeAge" name="employeeAge" placeholder="Enter your age" /><br />
+	<br />
+
+	<input type="submit" value="Submit"/>
+</form>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+			<th>Age</th>
+		</tr>
+	</thead>
+
+	<tbody>
+		@foreach (var Employee in Model.Employees)
+		{
+			<tr>
+				<th>@Employee.id</th>
+				<th>@Employee.name</th>
+				<th>@Employee.age</th>
+			</tr>
+		}
+
+	</tbody>
+
+</table>

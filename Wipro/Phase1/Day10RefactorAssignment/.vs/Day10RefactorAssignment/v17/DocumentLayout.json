@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win10\\source\\repos\\Day10RefactorAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{854C9589-3E34-4976-B4E8-9162A073B029}|Day10RefactorAssignment.csproj|c:\\users\\win10\\source\\repos\\day10refactorassignment\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854C9589-3E34-4976-B4E8-9162A073B029}|Day10RefactorAssignment.csproj|solutionrelative:classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854C9589-3E34-4976-B4E8-9162A073B029}|Day10RefactorAssignment.csproj|c:\\users\\win10\\source\\repos\\day10refactorassignment\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854C9589-3E34-4976-B4E8-9162A073B029}|Day10RefactorAssignment.csproj|solutionrelative:interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854C9589-3E34-4976-B4E8-9162A073B029}|Day10RefactorAssignment.csproj|c:\\users\\win10\\source\\repos\\day10refactorassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854C9589-3E34-4976-B4E8-9162A073B029}|Day10RefactorAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day10RefactorAssignment\\Classes.cs",
+              "RelativeDocumentMoniker": "Classes.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day10RefactorAssignment\\Classes.cs",
+              "RelativeToolTip": "Classes.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEYAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:08:01.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day10RefactorAssignment\\Interfaces.cs",
+              "RelativeDocumentMoniker": "Interfaces.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day10RefactorAssignment\\Interfaces.cs",
+              "RelativeToolTip": "Interfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:07:59.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day10RefactorAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day10RefactorAssignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:55:46.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

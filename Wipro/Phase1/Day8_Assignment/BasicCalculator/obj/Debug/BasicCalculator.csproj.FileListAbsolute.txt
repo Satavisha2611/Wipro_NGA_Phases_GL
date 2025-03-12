@@ -1,0 +1,6 @@
+C:\Users\win10\source\repos\Day8_Assignment\BasicCalculator\bin\Debug\BasicCalculator.dll
+C:\Users\win10\source\repos\Day8_Assignment\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\win10\source\repos\Day8_Assignment\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\Day8_Assignment\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\Day8_Assignment\BasicCalculator\obj\Debug\BasicCalculator.dll
+C:\Users\win10\source\repos\Day8_Assignment\BasicCalculator\obj\Debug\BasicCalculator.pdb

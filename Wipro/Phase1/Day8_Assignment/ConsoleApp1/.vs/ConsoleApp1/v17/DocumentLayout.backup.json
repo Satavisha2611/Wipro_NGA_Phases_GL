@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win10\\source\\repos\\Day8_Assignment\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDB2427-F440-4A58-8CF9-C3EF09480B0B}|Assignment1.csproj|c:\\users\\win10\\source\\repos\\day8_assignment\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDB2427-F440-4A58-8CF9-C3EF09480B0B}|Assignment1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51727DCB-EFC1-4BE0-9C19-B0762A03B6FE}|..\\BasicCalculator\\BasicCalculator.csproj|c:\\users\\win10\\source\\repos\\day8_assignment\\basiccalculator\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AECE3B-145D-4662-8A94-E34DC99B122E}|..\\Assignment1_Test\\Assignment1_Test.csproj|c:\\users\\win10\\source\\repos\\day8_assignment\\assignment1_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day8_Assignment\\Assignment1_Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Assignment1_Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day8_Assignment\\Assignment1_Test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Assignment1_Test\\UnitTest1.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADwv1UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:49:36.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day8_Assignment\\BasicCalculator\\Calculate.cs",
+              "RelativeDocumentMoniker": "..\\BasicCalculator\\Calculate.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day8_Assignment\\BasicCalculator\\Calculate.cs",
+              "RelativeToolTip": "..\\BasicCalculator\\Calculate.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:48:48.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day8_Assignment\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day8_Assignment\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:46:43.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

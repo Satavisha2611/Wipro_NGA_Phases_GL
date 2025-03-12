@@ -1,0 +1,7 @@
+C:\Users\win10\source\repos\Day11\SolidPrinciples\bin\Debug\SolidPrinciples.exe.config
+C:\Users\win10\source\repos\Day11\SolidPrinciples\bin\Debug\SolidPrinciples.exe
+C:\Users\win10\source\repos\Day11\SolidPrinciples\bin\Debug\SolidPrinciples.pdb
+C:\Users\win10\source\repos\Day11\SolidPrinciples\obj\Debug\SolidPrinciples.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\Day11\SolidPrinciples\obj\Debug\SolidPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\Day11\SolidPrinciples\obj\Debug\SolidPrinciples.exe
+C:\Users\win10\source\repos\Day11\SolidPrinciples\obj\Debug\SolidPrinciples.pdb

@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win10\\source\\repos\\Practice\\BankProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{405E58A9-FF17-400F-8226-7ADBA0F17AC5}|BankProject.csproj|c:\\users\\win10\\source\\repos\\practice\\bankproject\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405E58A9-FF17-400F-8226-7ADBA0F17AC5}|BankProject.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405E58A9-FF17-400F-8226-7ADBA0F17AC5}|BankProject.csproj|c:\\users\\win10\\source\\repos\\practice\\bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405E58A9-FF17-400F-8226-7ADBA0F17AC5}|BankProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405E58A9-FF17-400F-8226-7ADBA0F17AC5}|BankProject.csproj|c:\\users\\win10\\source\\repos\\practice\\bankproject\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405E58A9-FF17-400F-8226-7ADBA0F17AC5}|BankProject.csproj|solutionrelative:models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405E58A9-FF17-400F-8226-7ADBA0F17AC5}|BankProject.csproj|c:\\users\\win10\\source\\repos\\practice\\bankproject\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405E58A9-FF17-400F-8226-7ADBA0F17AC5}|BankProject.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405E58A9-FF17-400F-8226-7ADBA0F17AC5}|BankProject.csproj|c:\\users\\win10\\source\\repos\\practice\\bankproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{405E58A9-FF17-400F-8226-7ADBA0F17AC5}|BankProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405E58A9-FF17-400F-8226-7ADBA0F17AC5}|BankProject.csproj|c:\\users\\win10\\source\\repos\\practice\\bankproject\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405E58A9-FF17-400F-8226-7ADBA0F17AC5}|BankProject.csproj|solutionrelative:models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405E58A9-FF17-400F-8226-7ADBA0F17AC5}|BankProject.csproj|c:\\users\\win10\\source\\repos\\practice\\bankproject\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405E58A9-FF17-400F-8226-7ADBA0F17AC5}|BankProject.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Practice\\BankProject\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Practice\\BankProject\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:37:12.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trans.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Practice\\BankProject\\Models\\Trans.cs",
+              "RelativeDocumentMoniker": "Models\\Trans.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Practice\\BankProject\\Models\\Trans.cs",
+              "RelativeToolTip": "Models\\Trans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:57:02.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Practice\\BankProject\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Practice\\BankProject\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:23:50.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Practice\\BankProject\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Practice\\BankProject\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:11:37.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Practice\\BankProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Practice\\BankProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:24:59.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Practice\\BankProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Practice\\BankProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T07:23:57.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Practice\\BankProject\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Practice\\BankProject\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:22:43.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

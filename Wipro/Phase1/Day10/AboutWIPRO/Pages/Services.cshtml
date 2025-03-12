@@ -1,0 +1,24 @@
+﻿@page
+@model AboutWIPRO.Pages.ServicesModel
+@{
+}
+
+<h1 class="text-center">Services</h1>
+<table class="table">
+	<thead>
+		<tr>
+			<th class="text-center">Name</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var ser in Model.service)
+		{
+			<tr>
+				<th class="text-center">
+					@ser
+				</th>
+			</tr>
+		}
+		
+	</tbody>
+</table>

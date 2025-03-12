@@ -1,0 +1,30 @@
+﻿@page
+@model DemoRazor.Pages.EmployeeModel
+@{
+	//ViewData["Title"] = "Employee"; 
+}
+
+<h1> Employee Data:  </h1>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+			<th>Age</th>
+		</tr>
+	</thead>
+
+	<tbody>
+		@foreach(var Employee in Model.Employees)
+		{
+			<tr>
+				<th>@Employee.id</th>
+				<th>@Employee.name</th>
+				<th>@Employee.age</th>
+			</tr>
+		}
+
+	</tbody>
+
+</table>

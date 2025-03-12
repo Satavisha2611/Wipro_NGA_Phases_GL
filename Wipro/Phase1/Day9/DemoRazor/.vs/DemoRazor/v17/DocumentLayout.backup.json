@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win10\\source\\repos\\Day9\\DemoRazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B886E01-B3A3-4F13-B822-CD8120ABF9F8}|DemoRazor.csproj|c:\\users\\win10\\source\\repos\\day9\\demorazor\\pages\\employee.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B886E01-B3A3-4F13-B822-CD8120ABF9F8}|DemoRazor.csproj|solutionrelative:pages\\employee.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B886E01-B3A3-4F13-B822-CD8120ABF9F8}|DemoRazor.csproj|c:\\users\\win10\\source\\repos\\day9\\demorazor\\pages\\employeeinfo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B886E01-B3A3-4F13-B822-CD8120ABF9F8}|DemoRazor.csproj|solutionrelative:pages\\employeeinfo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B886E01-B3A3-4F13-B822-CD8120ABF9F8}|DemoRazor.csproj|c:\\users\\win10\\source\\repos\\day9\\demorazor\\pages\\employeeinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B886E01-B3A3-4F13-B822-CD8120ABF9F8}|DemoRazor.csproj|solutionrelative:pages\\employeeinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B886E01-B3A3-4F13-B822-CD8120ABF9F8}|DemoRazor.csproj|c:\\users\\win10\\source\\repos\\day9\\demorazor\\model\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B886E01-B3A3-4F13-B822-CD8120ABF9F8}|DemoRazor.csproj|solutionrelative:model\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B886E01-B3A3-4F13-B822-CD8120ABF9F8}|DemoRazor.csproj|c:\\users\\win10\\source\\repos\\day9\\demorazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B886E01-B3A3-4F13-B822-CD8120ABF9F8}|DemoRazor.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day9\\DemoRazor\\Pages\\Employee.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Employee.cshtml.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day9\\DemoRazor\\Pages\\Employee.cshtml.cs",
+              "RelativeToolTip": "Pages\\Employee.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:59:17.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeInfo.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day9\\DemoRazor\\Pages\\EmployeeInfo.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\EmployeeInfo.cshtml.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day9\\DemoRazor\\Pages\\EmployeeInfo.cshtml.cs",
+              "RelativeToolTip": "Pages\\EmployeeInfo.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:57:35.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day9\\DemoRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day9\\DemoRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T11:52:50.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day9\\DemoRazor\\Pages\\EmployeeInfo.cshtml",
+              "RelativeDocumentMoniker": "Pages\\EmployeeInfo.cshtml",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day9\\DemoRazor\\Pages\\EmployeeInfo.cshtml",
+              "RelativeToolTip": "Pages\\EmployeeInfo.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T11:41:38.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\source\\repos\\Day9\\DemoRazor\\Model\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "Model\\EmployeeData.cs",
+              "ToolTip": "C:\\Users\\win10\\source\\repos\\Day9\\DemoRazor\\Model\\EmployeeData.cs",
+              "RelativeToolTip": "Model\\EmployeeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:49:12.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

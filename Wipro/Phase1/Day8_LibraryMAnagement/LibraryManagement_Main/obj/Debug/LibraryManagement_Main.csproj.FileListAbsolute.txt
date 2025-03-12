@@ -1,0 +1,11 @@
+C:\Users\win10\source\repos\Day8_LibraryMAnagement\LibraryManagement_Main\bin\Debug\LibraryManagement_Main.exe.config
+C:\Users\win10\source\repos\Day8_LibraryMAnagement\LibraryManagement_Main\bin\Debug\LibraryManagement_Main.exe
+C:\Users\win10\source\repos\Day8_LibraryMAnagement\LibraryManagement_Main\bin\Debug\LibraryManagement_Main.pdb
+C:\Users\win10\source\repos\Day8_LibraryMAnagement\LibraryManagement_Main\bin\Debug\LibraryManagement1.dll
+C:\Users\win10\source\repos\Day8_LibraryMAnagement\LibraryManagement_Main\bin\Debug\LibraryManagement1.pdb
+C:\Users\win10\source\repos\Day8_LibraryMAnagement\LibraryManagement_Main\obj\Debug\LibraryManagement_Main.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\Day8_LibraryMAnagement\LibraryManagement_Main\obj\Debug\LibraryManagement_Main.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\Day8_LibraryMAnagement\LibraryManagement_Main\obj\Debug\LibraryM.3AF325CC.Up2Date
+C:\Users\win10\source\repos\Day8_LibraryMAnagement\LibraryManagement_Main\obj\Debug\LibraryManagement_Main.exe
+C:\Users\win10\source\repos\Day8_LibraryMAnagement\LibraryManagement_Main\obj\Debug\LibraryManagement_Main.pdb
+C:\Users\win10\source\repos\Day8_LibraryMAnagement\LibraryManagement_Main\bin\Debug\LibraryManagement1.dll.config

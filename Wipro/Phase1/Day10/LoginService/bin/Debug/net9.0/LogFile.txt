@@ -1,0 +1,36 @@
+2025-02-06 10:21:59.8905|INFO|LoginService.AuthenticationService|Login attempt is made: Sata
+2025-02-06 10:22:00.0057|INFO|LoginService.AuthenticationService|Login successfull: Sata
+2025-02-06 10:22:00.0057|INFO|LoginService.AuthenticationService|Login attempt is made: Sataaa
+2025-02-06 10:22:00.0057|WARN|LoginService.AuthenticationService|Incorrect username: Sataaa
+2025-02-06 10:29:19.6811|INFO|LoginService.AuthenticationService|Login attempt is made: Sata
+2025-02-06 10:29:19.7803|INFO|LoginService.AuthenticationService|Login successfull: Sata
+2025-02-06 10:29:19.7812|INFO|LoginService.AuthenticationService|Login attempt is made: Sataaa
+2025-02-06 10:29:19.7812|WARN|LoginService.AuthenticationService|Incorrect username: Sataaa
+2025-02-06 10:29:49.1064|INFO|LoginService.AuthenticationService|Login attempt is made: Sata
+2025-02-06 10:29:49.1945|WARN|LoginService.AuthenticationService|Incorrect username: Sata
+2025-02-06 10:29:49.1945|INFO|LoginService.AuthenticationService|Login attempt is made: Sataaa
+2025-02-06 10:29:49.1945|WARN|LoginService.AuthenticationService|Incorrect username: Sataaa
+2025-02-27 13:00:56.8650|INFO|LoginService.AuthenticationService|Login attempt is made: Sata
+2025-02-27 13:00:56.9306|INFO|LoginService.AuthenticationService|Login successful: Sata
+2025-02-27 13:00:56.9306|INFO|LoginService.AuthenticationService|Login attempt is made: Sata
+2025-02-27 13:00:56.9306|WARN|LoginService.AuthenticationService|Login failed: Incorrect password for user 'Sata'.
+2025-02-27 13:00:56.9306|INFO|LoginService.AuthenticationService|Login attempt is made: Sataaa
+2025-02-27 13:00:56.9306|WARN|LoginService.AuthenticationService|Login failed: Username 'Sataaa' not found.
+2025-02-27 13:04:03.4413 | INFO | Login attempt is made: Sata
+2025-02-27 13:04:03.4973 | INFO | Login successful: Sata
+2025-02-27 13:04:03.4973 | INFO | Login attempt is made: Sata
+2025-02-27 13:04:03.4973 | WARN | Login failed: Incorrect password for user 'Sata'.
+2025-02-27 13:04:03.4973 | INFO | Login attempt is made: Sataaa
+2025-02-27 13:04:03.4973 | WARN | Login failed: Username 'Sataaa' not found.
+2025-02-27 13:05:10.9013 | INFO | Login attempt is made: Sata
+2025-02-27 13:05:10.9612 | INFO | Login successful: Sata
+2025-02-27 13:05:10.9612 | INFO | Login attempt is made: Sata
+2025-02-27 13:05:10.9612 | WARN | Login failed: Incorrect password for user 'Sata'.
+2025-02-27 13:05:10.9612 | INFO | Login attempt is made: Sataaa
+2025-02-27 13:05:10.9612 | WARN | Login failed: Username 'Sataaa' not found.
+2025-02-27 13:05:53.0198 | INFO | Login attempt is made: Sata
+2025-02-27 13:05:53.1041 | INFO | Login successful: Sata
+2025-02-27 13:05:53.1041 | INFO | Login attempt is made: Sata
+2025-02-27 13:05:53.1041 | WARN | Login failed: Incorrect password for user 'Sata'.
+2025-02-27 13:05:53.1158 | INFO | Login attempt is made: Sataaa
+2025-02-27 13:05:53.1158 | WARN | Login failed: Username 'Sataaa' not found.

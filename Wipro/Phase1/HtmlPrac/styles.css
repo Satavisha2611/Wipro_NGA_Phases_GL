@@ -1,0 +1,34 @@
+body, h2, p{
+    margin:0;
+    padding:0;
+}
+h1{
+    display:inline;
+}
+
+header{
+    color:white;
+    background-color: black;
+    padding: 10px 0;
+}
+.nav-bar{
+    padding: 10px 0;
+}
+.nav-bar ul{
+    list-style: none;
+    display: inline-flex;
+    text-shadow: 1px;
+}
+
+.nav-item{
+    color:white;
+    font-size: 20px;
+    padding: 5px 10px;
+    text-decoration: none;
+    float : left;
+}
+.main{
+    width:85%;
+    padding:20px;
+    margin:5px;
+}
